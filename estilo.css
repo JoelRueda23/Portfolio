@@ -313,6 +313,22 @@ html{
     0%{width: 0%;}
     100%{width: 20%;}
 }
+.skills .skill .adobe{
+    width: 0%;
+    animation: 2s adobe forwards;
+}
+@keyframes adobe{
+    0%{width: 0%;}
+    100%{width: 70%;}
+}
+.skills .skill .canva{
+    width: 0%;
+    animation: 2s canva forwards;
+}
+@keyframes canva{
+    0%{width: 0%;}
+    100%{width: 90%;}
+}
 /*barra progreso professional skill*/
 .skills .skill .comunicacion{
     width: 0%;
@@ -343,6 +359,14 @@ html{
     animation: 2s dedicacion forwards;
 }
 @keyframes dedicacion{
+    0%{width: 0%;}
+    100%{width: 90%;}
+}
+.skills .skill .presion{
+    width: 0%;
+    animation: 2s presion forwards;
+}
+@keyframes presion{
     0%{width: 0%;}
     100%{width: 90%;}
 }

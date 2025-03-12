@@ -27,11 +27,13 @@ function efectoHabilidades(){
         habilidades[2].classList.add("javascript");
         habilidades[3].classList.add("bootstrap");
         habilidades[4].classList.add("laravel");
-        habilidades[5].classList.add("comunicacion");
-        habilidades[6].classList.add("trabajo");
-        habilidades[7].classList.add("creatividad");
-        habilidades[8].classList.add("dedicacion");
-
+        habilidades[5].classList.add("adobe");
+        habilidades[6].classList.add("canva");
+        habilidades[7].classList.add("comunicacion");
+        habilidades[8].classList.add("trabajo");
+        habilidades[9].classList.add("creatividad");
+        habilidades[10].classList.add("dedicacion");
+        habilidades[11].classList.add("presion");
     }
 }
 
