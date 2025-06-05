@@ -606,6 +606,7 @@ html{
     width: 350px;
     left: 50%;
     transform: translate(-50%, -50%);
+    opacity: 0.9;
 }
 .contacto .col .info ul{
     list-style: none;
